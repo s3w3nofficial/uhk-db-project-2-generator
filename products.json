@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "price": "500",
+      "name": "Ball",
+      "description": "A solid or hollow spherical or egg-shaped object that is kicked, thrown, or hit in a game.",
+      "picture": "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/741035_01"
+    },
+    {
+      "price": "400",
+      "name": "Baseball bat",
+      "description": "A baseball bat is a smooth wooden or metal club used in the sport of baseball to hit the ball after it is thrown by the pitcher. By regulation it may be no more than 2.75 inches (7.0 cm) in diameter at the thickest part and no more than 42 inches (1.067 m) in length.",
+      "picture": "https://images-na.ssl-images-amazon.com/images/I/61-rIQlyDML._AC_SY879_.jpg"
+    },
+    {
+      "price": "800",
+      "name": "Hockey stick",
+      "description": "An ice hockey stick is a piece of equipment used in ice hockey to shoot, pass, and carry the puck across the ice. Ice hockey sticks are approximately 150–200 cm long, composed of a long, slender shaft with a flat extension at one end called the blade.",
+      "picture": "https://technofaq.org/wp-content/uploads/2018/11/composite-hockey-stick.jpg"
+    },
+    {
+      "price": "2000",
+      "name": "Baseball glove",
+      "description": "A baseball glove or mitt is a large leather glove worn by baseball players of the defending team, which assists players in catching and fielding balls hit by a batter or thrown by a teammate.",
+      "picture": "https://target.scene7.com/is/image/Target/GUEST_dcd80445-9c25-4be2-bbc6-07dfca42d342?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "price": "10000",
+      "name": "Skis",
+      "description": "each of a pair of long, narrow pieces of hard, flexible material, typically pointed and turned up at the front, fastened under the feet for travelling over snow.",
+      "picture": "https://www.extremevital.com/catalog/images/elan/2019/jett_qs_jr_019.jpg"
+    },
+    {
+      "price": "7000",
+      "name": "Snowboard",
+      "description": "Snowboards are boards where both feet are secured to the same board, which are wider than skis, with the ability to glide on snow.",
+      "picture": "https://www.jonessnowboards.com/874-large_default/frontier.jpg"
+    },
+    {
+      "price": "1500",
+      "name": "Skateboard",
+      "description": "A short board mounted on small wheels that is used for coasting and for performing athletic stunts. skateboard. verb. skateboarded; skateboarding; skateboards.",
+      "picture": "https://cdn.skatepro.com/product/440/flip-complete-skateboard-wm.jpg"
+    },
+    {
+      "price": "2500",
+      "name": "Roller skates",
+      "description": "Roller skates are shoes, or bindings that fit onto shoes, that are worn to enable the wearer to roll along on wheels. The first roller skate was effectively an ice skate with wheels replacing the blade.",
+      "picture": "https://img.dxcdn.com/productimages/sku_628140_1.jpg"
+    }
+  ]
+}
